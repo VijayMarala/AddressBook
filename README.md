@@ -10,6 +10,7 @@ A console-based Address Book Management System developed in C. The application a
 - Search Contact
 - Edit Contact
 - Delete Contact
+- Display all contacts
 - Save Contacts to File
 - Load Contacts from File
 
@@ -35,3 +36,9 @@ A console-based Address Book Management System developed in C. The application a
 ## Author
 
 Marala vijaya kumar reddy
+
+## Screenshots
+
+### Application Output
+
+![Address Book Application](menu.png)
